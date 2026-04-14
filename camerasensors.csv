@@ -3,37 +3,35 @@ AJA,CION,Standard,22.5,11.9
 Apertus,Axiom,Standard,17.3,13.0
 ARRI,ALEXA,16:9,23.76,13.37
 ARRI,ALEXA,4:3,23.76,17.82
-ARRI,ALEXA Plus,16:9,23.76,13.37
-ARRI,ALEXA Plus,4:3,23.76,17.82
+ARRI,ALEXA 35,16:9,23.76,13.37
+ARRI,ALEXA 35,3.3K 6:5,20.22,16.95
+ARRI,ALEXA 35,4.6K 16:9,27.99,15.74
+ARRI,ALEXA 35,4K 16:9,24.87,13.99
+ARRI,ALEXA 35,4K 2:1,24.87,12.44
+ARRI,ALEXA 35,Open Gate,27.99,19.22
+ARRI,ALEXA 35,Super 16,12.44,6.99
+ARRI,ALEXA 65,4.3K,35.64,23.76
+ARRI,ALEXA 65,5.1K,42.24,23.76
+ARRI,ALEXA 65,LF Open Gate,36.7,25.54
+ARRI,ALEXA 65,Open Gate 6.5K,54.12,25.58
+ARRI,ALEXA LF,LF 16:9,31.68,17.82
+ARRI,ALEXA LF,LF 2.39:1 Scope,36.7,15.31
+ARRI,ALEXA LF,LF Open Gate,36.7,25.54
 ARRI,ALEXA M,16:9,23.76,13.37
 ARRI,ALEXA M,4:3,23.76,17.82
+ARRI,ALEXA Mini,16:9 4K UHD,26.4,14.85
+ARRI,ALEXA Mini,16:9 HD/2K,23.76,13.37
+ARRI,ALEXA Mini,4:3 2.8K,23.76,17.82
+ARRI,ALEXA Mini,6:5 Anamorphic,21.12,17.7
+ARRI,ALEXA Mini,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA Mini,S16 HD,13.2,7.43
+ARRI,ALEXA Mini LF,LF 16:9,31.68,17.82
+ARRI,ALEXA Mini LF,LF 2.39:1 Scope,36.7,15.31
+ARRI,ALEXA Mini LF,LF Open Gate,36.7,25.54
+ARRI,ALEXA Plus,16:9,23.76,13.37
+ARRI,ALEXA Plus,4:3,23.76,17.82
 ARRI,ALEXA Studio,16:9,23.76,13.37
 ARRI,ALEXA Studio,4:3,23.76,17.82
-ARRI,ALEXA XT,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XT,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XT,4:3 Full,23.76,17.82
-ARRI,ALEXA XT,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XT,Open Gate 3.4K,28.25,18.17
-ARRI,ALEXA XT Plus,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XT Plus,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XT Plus,4:3 Full,23.76,17.82
-ARRI,ALEXA XT Plus,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XT Plus,Open Gate 3.4K,28.25,18.17
-ARRI,ALEXA XT M,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XT M,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XT M,4:3 Full,23.76,17.82
-ARRI,ALEXA XT M,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XT M,Open Gate 3.4K,28.25,18.17
-ARRI,ALEXA XT Studio,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XT Studio,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XT Studio,4:3 Full,23.76,17.82
-ARRI,ALEXA XT Studio,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XT Studio,Open Gate 3.4K,28.25,18.17
-ARRI,ALEXA XT B+W,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XT B+W,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XT B+W,4:3 Full,23.76,17.82
-ARRI,ALEXA XT B+W,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XT B+W,Open Gate 3.4K,28.25,18.17
 ARRI,ALEXA SXT,16:9 2.8K,23.76,13.37
 ARRI,ALEXA SXT,16:9 3.2K ARRIRAW,26.14,14.7
 ARRI,ALEXA SXT,16:9 4K UHD,26.4,14.85
@@ -58,269 +56,336 @@ ARRI,ALEXA SXT W,16:9 4K UHD,26.4,14.85
 ARRI,ALEXA SXT W,4:3 2.8K,23.76,17.82
 ARRI,ALEXA SXT W,6:5 Anamorphic,21.12,17.7
 ARRI,ALEXA SXT W,Open Gate 3.4K,28.25,18.17
-ARRI,ALEXA Mini,S16 HD,13.2,7.43
-ARRI,ALEXA Mini,16:9 HD/2K,23.76,13.37
-ARRI,ALEXA Mini,16:9 4K UHD,26.4,14.85
-ARRI,ALEXA Mini,4:3 2.8K,23.76,17.82
-ARRI,ALEXA Mini,6:5 Anamorphic,21.12,17.7
-ARRI,ALEXA Mini,Open Gate 3.4K,28.25,18.17
-ARRI,AMIRA,S16 HD,13.2,7.43
-ARRI,AMIRA,16:9 HD/2K,23.76,13.37
-ARRI,AMIRA,16:9 4K UHD,26.4,14.85
-ARRI,AMIRA,4:3 2.8K,23.76,17.82
-ARRI,AMIRA Advanced,S16 HD,13.2,7.43
-ARRI,AMIRA Advanced,16:9 HD/2K,23.76,13.37
-ARRI,AMIRA Advanced,16:9 4K UHD,26.4,14.85
-ARRI,AMIRA Advanced,4:3 2.8K,23.76,17.82
-ARRI,AMIRA Premium,S16 HD,13.2,7.43
-ARRI,AMIRA Premium,16:9 HD/2K,23.76,13.37
-ARRI,AMIRA Premium,16:9 4K UHD,26.4,14.85
-ARRI,AMIRA Premium,4:3 2.8K,23.76,17.82
-ARRI,ALEXA LF,LF Open Gate,36.7,25.54
-ARRI,ALEXA LF,LF 16:9,31.68,17.82
-ARRI,ALEXA LF,LF 2.39:1 Scope,36.7,15.31
-ARRI,ALEXA Mini LF,LF Open Gate,36.7,25.54
-ARRI,ALEXA Mini LF,LF 16:9,31.68,17.82
-ARRI,ALEXA Mini LF,LF 2.39:1 Scope,36.7,15.31
-ARRI,ALEXA 35,Open Gate,27.99,19.22
-ARRI,ALEXA 35,16:9,23.76,13.37
-ARRI,ALEXA 65,Open Gate 6.5K,54.12,25.58
-ARRI,ALEXA 65,5.1K,42.24,23.76
-ARRI,ALEXA 65,4.3K,35.64,23.76
-ARRI,ALEXA 65,LF Open Gate,36.7,25.54
-ARRI,Arriflex D-21,4:3,23.76,17.82
-ARRI,Arriflex D-21,16:9,23.76,13.37
-ARRI,Arriflex D-20,4:3,23.76,17.82
-ARRI,Arriflex D-20,16:9,23.76,13.37
-ARRI,ALEXA XR Studio,16:9 2.8K,23.76,13.37
-ARRI,ALEXA XR Studio,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XR Studio,4:3 Full,23.76,17.82
-ARRI,ALEXA XR Studio,4:3 Cropped,21.27,17.82
-ARRI,ALEXA XR Studio,Open Gate 3.4K,28.25,18.17
 ARRI,ALEXA XR Plus,16:9 2.8K,23.76,13.37
 ARRI,ALEXA XR Plus,16:9 3.2K,26.14,14.7
-ARRI,ALEXA XR Plus,4:3 Full,23.76,17.82
 ARRI,ALEXA XR Plus,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XR Plus,4:3 Full,23.76,17.82
 ARRI,ALEXA XR Plus,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XR Studio,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XR Studio,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XR Studio,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XR Studio,4:3 Full,23.76,17.82
+ARRI,ALEXA XR Studio,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XT,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XT,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XT,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XT,4:3 Full,23.76,17.82
+ARRI,ALEXA XT,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XT B+W,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XT B+W,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XT B+W,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XT B+W,4:3 Full,23.76,17.82
+ARRI,ALEXA XT B+W,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XT M,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XT M,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XT M,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XT M,4:3 Full,23.76,17.82
+ARRI,ALEXA XT M,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XT Plus,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XT Plus,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XT Plus,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XT Plus,4:3 Full,23.76,17.82
+ARRI,ALEXA XT Plus,Open Gate 3.4K,28.25,18.17
+ARRI,ALEXA XT Studio,16:9 2.8K,23.76,13.37
+ARRI,ALEXA XT Studio,16:9 3.2K,26.14,14.7
+ARRI,ALEXA XT Studio,4:3 Cropped,21.27,17.82
+ARRI,ALEXA XT Studio,4:3 Full,23.76,17.82
+ARRI,ALEXA XT Studio,Open Gate 3.4K,28.25,18.17
+ARRI,AMIRA,16:9 4K UHD,26.4,14.85
+ARRI,AMIRA,16:9 HD/2K,23.76,13.37
+ARRI,AMIRA,4:3 2.8K,23.76,17.82
+ARRI,AMIRA,S16 HD,13.2,7.43
+ARRI,AMIRA Advanced,16:9 4K UHD,26.4,14.85
+ARRI,AMIRA Advanced,16:9 HD/2K,23.76,13.37
+ARRI,AMIRA Advanced,4:3 2.8K,23.76,17.82
+ARRI,AMIRA Advanced,S16 HD,13.2,7.43
+ARRI,AMIRA Premium,16:9 4K UHD,26.4,14.85
+ARRI,AMIRA Premium,16:9 HD/2K,23.76,13.37
+ARRI,AMIRA Premium,4:3 2.8K,23.76,17.82
+ARRI,AMIRA Premium,S16 HD,13.2,7.43
+ARRI,Arriflex D-20,16:9,23.76,13.37
+ARRI,Arriflex D-20,4:3,23.76,17.82
+ARRI,Arriflex D-21,16:9,23.76,13.37
+ARRI,Arriflex D-21,4:3,23.76,17.82
 Blackmagic,Cinema Camera,Standard,16.64,14.04
-Blackmagic,Production Camera 4K,Standard,21.12,11.88
-Blackmagic,Pocket Cinema Camera,Standard,12.48,7.02
-Blackmagic,Pocket Cinema Camera 4K,Standard,18.96,10.0
+Blackmagic,Cinema Camera 6K,4K DCI 17:9,24.39,12.86
+Blackmagic,Cinema Camera 6K,6K 2.4:1,36.0,15.0
+Blackmagic,Cinema Camera 6K,6K DCI 17:9,36.0,19.05
+Blackmagic,Cinema Camera 6K,Anamorphic 6:5,28.76,24.0
+Blackmagic,Cinema Camera 6K,Open Gate,36.0,24.0
+Blackmagic,Cinema Camera 6K,Super 16,12.57,7.05
+Blackmagic,Cinema Camera 6K,Super 35 4:3,24.39,18.29
 Blackmagic,Micro Cinema Camera,Standard,12.48,7.02
 Blackmagic,Micro Studio Camera 4K,Standard,17.3,13.0
-Blackmagic,Studio Camera HD,Standard,7.18,5.34
+Blackmagic,Pocket Cinema Camera,Standard,12.48,7.02
+Blackmagic,Pocket Cinema Camera 4K,Standard,18.96,10.0
+Blackmagic,Pocket Cinema Camera 6K,Standard,23.1,12.99
+Blackmagic,Pocket Cinema Camera 6K G2,Standard,23.1,12.99
+Blackmagic,Pocket Cinema Camera 6K Pro,Standard,23.1,12.99
+Blackmagic,Production Camera 4K,Standard,21.12,11.88
+Blackmagic,Pyxis 6K,6K 16:9,36.0,20.28
+Blackmagic,Pyxis 6K,6K 2.4:1,36.0,15.0
+Blackmagic,Pyxis 6K,6K DCI 17:9,36.0,19.05
+Blackmagic,Pyxis 6K,Open Gate,36.0,24.0
 Blackmagic,Studio Camera 4K,Standard,9.63,7.22
-Blackmagic,URSA 4K,Standard,23.04,12.9
+Blackmagic,Studio Camera HD,Standard,7.18,5.34
 Blackmagic,URSA 4.6K,Standard,25.34,14.25
-Blackmagic,URSA Mini 4K,Standard,21.12,11.88
+Blackmagic,URSA 4K,Standard,23.04,12.9
+Blackmagic,URSA Broadcast,Standard,6.17,4.63
+Blackmagic,URSA Cine 12K,12K 16:9,35.63,18.79
+Blackmagic,URSA Cine 12K,12K 17:9,35.63,20.04
+Blackmagic,URSA Cine 12K,12K 2.4:1,35.63,14.82
+Blackmagic,URSA Cine 12K,Anamorphic 6:5,27.98,23.32
+Blackmagic,URSA Cine 12K,Open Gate,35.63,23.32
 Blackmagic,URSA Mini 4.6K,Standard,25.34,14.25
+Blackmagic,URSA Mini 4K,Standard,21.12,11.88
+Blackmagic,URSA Mini Pro 12K,Standard,27.03,14.25
 Blackmagic,URSA Mini Pro 4.6K,Standard,25.34,14.25
 Blackmagic,URSA Mini Pro 4.6K G2,Standard,25.34,14.25
-Blackmagic,URSA Broadcast,Standard,6.17,4.63
-Canon,EOS C100,Standard,24.6,13.8
-Canon,EOS C100 Mark II,Standard,24.6,13.8
-Canon,EOS C300,Standard,24.6,13.8
-Canon,EOS C300 Mark II,Standard,24.6,13.8
-Canon,EOS C500,Standard,24.6,13.8
-Canon,EOS C700,4K Super35,26.2,13.8
-Canon,EOS C700,4.5K RAW,28.9,15.2
-Canon,EOS C700 GS PL,4K Super35,26.2,13.8
-Canon,EOS C700 GS PL,4.5K RAW,28.9,15.2
-Canon,ME20F-SH,Standard,24.6,13.8
-Canon,ME200S-SH,Standard,24.6,13.8
-Canon,XC10 4K Camcorder,Standard,13.2,8.8
 Canon,EOS 1D C,Standard,36.0,24.0
-Canon,EOS 1D X,Standard,36.0,24.0
 Canon,EOS 1D Mark IV,Standard,27.9,18.6
+Canon,EOS 1D X,Standard,36.0,24.0
+Canon,EOS 550D / Rebel T2i,Standard,22.3,14.9
 Canon,EOS 5D Mark II,Standard,36.0,24.0
 Canon,EOS 5D Mark III,Standard,36.0,24.0
 Canon,EOS 5D Mark IV,Standard,36.0,24.0
-Canon,EOS 6D,Standard,35.8,23.9
-Canon,EOS 7D,Standard,22.3,14.9
-Canon,EOS 7D Mark II,Standard,22.4,15.0
+Canon,EOS 600D / Rebel T3i,Standard,22.3,14.9
 Canon,EOS 60D,Standard,22.3,14.9
 Canon,EOS 60Da,Standard,22.3,14.9
-Canon,EOS 70D,Standard,22.5,15.0
-Canon,EOS 80D,Standard,22.5,15.0
-Canon,EOS 700D / Rebel T5i,Standard,22.3,14.9
 Canon,EOS 650D / Rebel T4i,Standard,22.3,14.9
-Canon,EOS 600D / Rebel T3i,Standard,22.3,14.9
-Canon,EOS 550D / Rebel T2i,Standard,22.3,14.9
-CMOS,1/4 inch CMOS,Standard,3.6,2.7
-CMOS,1/3 inch CMOS,Standard,4.8,3.6
-CMOS,1/2.3 inch CMOS,Standard,6.17,4.63
-CMOS,1/2 inch CMOS,Standard,6.4,4.8
-CMOS,2/3 inch CCD,Standard,8.8,6.6
+Canon,EOS 6D,Standard,35.8,23.9
+Canon,EOS 700D / Rebel T5i,Standard,22.3,14.9
+Canon,EOS 70D,Standard,22.5,15.0
+Canon,EOS 7D,Standard,22.3,14.9
+Canon,EOS 7D Mark II,Standard,22.4,15.0
+Canon,EOS 80D,Standard,22.5,15.0
+Canon,EOS C100,Standard,24.6,13.8
+Canon,EOS C100 Mark II,Standard,24.6,13.8
+Canon,EOS C200,Standard,24.4,13.5
+Canon,EOS C300,Standard,24.6,13.8
+Canon,EOS C300 Mark II,Standard,24.6,13.8
+Canon,EOS C300 Mark III,Standard,26.2,13.8
+Canon,EOS C500,Standard,24.6,13.8
+Canon,EOS C500 Mark II,Full Frame,38.1,20.1
+Canon,EOS C500 Mark II,Super 35,26.1,13.8
+Canon,EOS C70,4K DCI,26.2,13.8
+Canon,EOS C70,4K UHD,24.6,13.8
+Canon,EOS C700,4.5K RAW,28.9,15.2
+Canon,EOS C700,4K Super35,26.2,13.8
+Canon,EOS C700 GS PL,4.5K RAW,28.9,15.2
+Canon,EOS C700 GS PL,4K Super35,26.2,13.8
+Canon,EOS R5,Standard,35.9,24.0
+Canon,EOS R5C,Standard,36.0,24.0
+Canon,EOS R6,Standard,36.0,24.0
+Canon,ME200S-SH,Standard,24.6,13.8
+Canon,ME20F-SH,Standard,24.6,13.8
+Canon,XC10 4K Camcorder,Standard,13.2,8.8
 CMOS,1 inch CMOS,Standard,13.2,8.8
-CMOS,Micro Four Thirds,Standard,17.3,13.0
+CMOS,1/2 inch CMOS,Standard,6.4,4.8
+CMOS,1/2.3 inch CMOS,Standard,6.17,4.63
+CMOS,1/3 inch CMOS,Standard,4.8,3.6
+CMOS,1/4 inch CMOS,Standard,3.6,2.7
+CMOS,2/3 inch CCD,Standard,8.8,6.6
 CMOS,Four Thirds,Standard,17.3,13.0
+CMOS,Micro Four Thirds,Standard,17.3,13.0
 Craft Camera,Craft Camera 4K,Standard,26.0,14.63
 Craft Camera,Craft Camera HD,Standard,23.76,13.37
 Dalsa,Origin II,Standard,24.89,14.0
 Digital Bolex,D16,Standard,12.85,9.64
-DJI,Zenmuse X7,Super35 Video,23.5,12.5
-DJI,Zenmuse X7,Full Frame Still,23.5,15.7
-DJI,Zenmuse X5S,Standard,17.3,9.7
-DJI,Zenmuse X5R,Standard,17.3,9.7
-DJI,Zenmuse X5,Standard,17.3,9.7
-DJI,Zenmuse X4S,Standard,13.2,8.8
 DJI,Inspire 1,Standard,6.17,4.63
 DJI,Mavic,Standard,6.17,4.63
+DJI,Mavic 3,Standard,17.3,13.0
+DJI,Mavic 3 Cine,Standard,17.3,13.0
 DJI,Mavic Air,Standard,6.17,4.63
-DJI,Phantom 4,Standard,13.2,8.8
-DJI,Phantom 4 Advanced,Standard,13.2,8.8
-DJI,Phantom 4 Pro,Standard,13.2,8.8
 DJI,Osmo,Standard,6.17,4.63
 DJI,Osmo Plus,Standard,6.17,4.63
 DJI,Osmo Pro and Raw,Standard,17.3,9.7
-Film,Standard 8mm Film,Standard,4.8,3.5
-Film,Super 8 Film,Standard,5.79,4.01
+DJI,Phantom 4,Standard,13.2,8.8
+DJI,Phantom 4 Advanced,Standard,13.2,8.8
+DJI,Phantom 4 Pro,Standard,13.2,8.8
+DJI,Zenmuse X4S,Standard,13.2,8.8
+DJI,Zenmuse X5,Standard,17.3,9.7
+DJI,Zenmuse X5R,Standard,17.3,9.7
+DJI,Zenmuse X5S,Standard,17.3,9.7
+DJI,Zenmuse X7,Full Frame Still,23.5,15.7
+DJI,Zenmuse X7,Super35 Video,23.5,12.5
+DJI,Zenmuse X9-6K,Standard,36.0,19.0
+DJI,Zenmuse X9-8K,Standard,36.0,19.0
 Film,16mm Film,Standard,10.26,7.49
-Film,Super 16 Film,Standard,12.52,7.41
 Film,35mm Academy,Standard,22.0,16.0
-Film,35mm Full Aperture,Standard,24.89,18.67
-Film,Super 35,4-perf,24.89,18.67
-Film,Super 35,3-perf,24.89,14.0
-Film,Super 35,2-perf,24.89,9.35
 Film,35mm Anamorphic,Standard,21.95,18.6
-Film,VistaVision,Standard,37.72,25.17
+Film,35mm Full Aperture,Standard,24.89,18.67
 Film,65mm Film,5-perf,52.63,23.01
 Film,IMAX,15-perf 70mm,70.41,52.63
+Film,Standard 8mm Film,Standard,4.8,3.5
+Film,Super 16 Film,Standard,12.52,7.41
+Film,Super 35,2-perf,24.89,9.35
+Film,Super 35,3-perf,24.89,14.0
+Film,Super 35,4-perf,24.89,18.67
+Film,Super 8 Film,Standard,5.79,4.01
+Film,VistaVision,Standard,37.72,25.17
 FOR-A,FT-ONE,Standard,25.6,14.4
+Fujifilm,GFX100 II,Standard,43.8,32.9
+Fujifilm,X-H2S,Standard,23.5,15.6
 GoPro,HD HERO,Standard,6.17,4.63
 GoPro,HD HERO2,Standard,6.17,4.63
-GoPro,HERO3 White Edition,Standard,6.17,4.63
-GoPro,HERO3 Silver Edition,Standard,6.17,4.63
+GoPro,HERO,Standard,6.17,4.63
 GoPro,HERO3 Black Edition,Standard,6.17,4.63
-GoPro,HERO3+ Silver Edition,Standard,6.17,4.63
+GoPro,HERO3 Silver Edition,Standard,6.17,4.63
+GoPro,HERO3 White Edition,Standard,6.17,4.63
 GoPro,HERO3+ Black Edition,Standard,6.17,4.63
+GoPro,HERO3+ Silver Edition,Standard,6.17,4.63
+GoPro,HERO4 Black,Standard,6.17,4.63
 GoPro,HERO4 Session,Standard,6.17,4.63
 GoPro,HERO4 Silver,Standard,6.17,4.63
-GoPro,HERO4 Black,Standard,6.17,4.63
-GoPro,HERO5 Session,Standard,6.17,4.63
 GoPro,HERO5 Black,Standard,6.17,4.63
+GoPro,HERO5 Session,Standard,6.17,4.63
 GoPro,HERO6 Black,Standard,6.17,4.63
 GoPro,HERO7 Black,Standard,6.17,4.63
-GoPro,HERO,Standard,6.17,4.63
 Grass Valley,Viper FilmStream,Standard,9.59,5.39
 Iconix,HD-RH1,Standard,8.8,4.95
 Ikonoskop,A-Cam dII,Standard,10.6,6.0
-IO Industries,Flare 4KSDI,Standard,22.3,12.54
 IO Industries,Flare 2KSDI,Standard,11.15,6.27
+IO Industries,Flare 4KSDI,Standard,22.3,12.54
 Leica,SL,Standard,36.0,24.0
 Nikon,D4,Standard,36.0,23.9
-Nikon,D90,Standard,23.6,15.8
+Nikon,D5100,Standard,23.6,15.7
 Nikon,D7000,Standard,23.6,15.7
 Nikon,D7100,Standard,23.5,15.6
-Nikon,D5100,Standard,23.6,15.7
+Nikon,D90,Standard,23.6,15.8
+Nikon,Z6 II,Standard,35.9,23.9
+Nikon,Z6 III,Standard,35.9,23.9
+Nikon,Z8,Standard,35.9,23.9
+Nikon,Z9,Standard,35.9,23.9
 Olympus,OM-D E-M5 Mark II,Standard,17.3,13.0
 Olympus,PEN E-P1,Standard,17.3,13.0
 P+S Technik,PS-Cam X35,Standard,23.76,13.37
-Panasonic,VariCam 35,Standard,23.6,13.3
-Panasonic,VariCam LT,Standard,23.6,13.3
-Panasonic,VariCam Pure,Standard,23.6,13.3
-Panasonic,VariCam HS,Standard,8.8,4.95
-Panasonic,VariCam AJ-HDC27H,Standard,8.8,4.95
-Panasonic,AG-DVX200,Standard,17.3,9.7
-Panasonic,AG-UX90,Standard,13.2,8.8
-Panasonic,AG-UX180,Standard,13.2,8.8
 Panasonic,AG-AF100,Standard,17.3,13.0
+Panasonic,AG-DVX200,Standard,17.3,9.7
+Panasonic,AG-UX180,Standard,13.2,8.8
+Panasonic,AG-UX90,Standard,13.2,8.8
+Panasonic,AU-EVA1,Standard,24.6,12.97
+Panasonic,Lumix BS1H,Standard,35.6,23.8
 Panasonic,Lumix GH1,Standard,17.3,13.0
 Panasonic,Lumix GH2,Standard,17.3,13.0
 Panasonic,Lumix GH3,Standard,17.3,13.0
 Panasonic,Lumix GH4,Standard,17.3,13.0
 Panasonic,Lumix GH5,Standard,17.3,13.0
-Panavision,Millennium DXL2,Open Gate 8K,40.96,21.6
-Panavision,Millennium DXL2,6K 2.4:1,30.72,12.8
-Panavision,Millennium DXL2,5K 2.4:1,25.6,10.67
-Panavision,Millennium DXL2,4K 2.4:1,20.48,8.53
-Panavision,Millennium DXL2,8K 1.9:1,40.96,21.6
-Panavision,Millennium DXL2,6K 1.9:1,30.72,16.17
-Panavision,Millennium DXL2,5K 1.78:1,28.8,16.2
-Panavision,Millennium DXL2,Anamorphic 6:5,22.66,18.9
-Panavision,Millennium DXL,Open Gate 6K,30.72,15.8
-Panavision,Millennium DXL,5K 2.4:1,25.6,10.67
-Panavision,Millennium DXL,4K 2.4:1,20.48,8.53
-Panavision,Millennium DXL,5K 1.78:1,25.6,14.4
+Panasonic,Lumix GH6,Standard,17.3,13.0
+Panasonic,Lumix S1H,Standard,35.6,23.8
+Panasonic,Lumix S5,Standard,35.6,23.8
+Panasonic,VariCam 35,Standard,23.6,13.3
+Panasonic,VariCam AJ-HDC27H,Standard,8.8,4.95
+Panasonic,VariCam HS,Standard,8.8,4.95
+Panasonic,VariCam LT,Standard,23.6,13.3
+Panasonic,VariCam Pure,Standard,23.6,13.3
 Panavision,Genesis,Standard,23.6,13.3
 Panavision,HD-900F,Standard,8.8,4.95
+Panavision,Millennium DXL,4K 2.4:1,20.48,8.53
+Panavision,Millennium DXL,5K 1.78:1,25.6,14.4
+Panavision,Millennium DXL,5K 2.4:1,25.6,10.67
+Panavision,Millennium DXL,Open Gate 6K,30.72,15.8
+Panavision,Millennium DXL2,4K 2.4:1,20.48,8.53
+Panavision,Millennium DXL2,5K 1.78:1,28.8,16.2
+Panavision,Millennium DXL2,5K 2.4:1,25.6,10.67
+Panavision,Millennium DXL2,6K 1.9:1,30.72,16.17
+Panavision,Millennium DXL2,6K 2.4:1,30.72,12.8
+Panavision,Millennium DXL2,8K 1.9:1,40.96,21.6
+Panavision,Millennium DXL2,Anamorphic 6:5,22.66,18.9
+Panavision,Millennium DXL2,Open Gate 8K,40.96,21.6
 Photron,FASTCAM BC2 HD,2K,20.4,11.4
 Photron,FASTCAM BC2 HD,HD,19.1,10.8
-RED,RED ONE,4K HD,22.12,12.44
-RED,RED ONE,4.5K WS,24.19,10.37
-RED,RED ONE MX,5K Full,27.65,14.58
-RED,RED ONE MX,4K HD,22.12,12.44
-RED,RED ONE MX,4.5K WS,24.19,10.37
-RED,RED EPIC,6K Full,30.72,15.8
-RED,RED EPIC,5K Full,25.6,13.5
-RED,RED EPIC,4K Full,20.48,10.8
 RED,RED EPIC,2K Full,10.24,5.4
-RED,RED SCARLET MX,5K Full,27.65,14.58
-RED,RED SCARLET MX,4K HD,22.12,12.44
+RED,RED EPIC,4K Full,20.48,10.8
+RED,RED EPIC,5K Full,25.6,13.5
+RED,RED EPIC,6K Full,30.72,15.8
+RED,RED EPIC-W 5K,4K Full,20.48,10.8
+RED,RED EPIC-W 5K,5K Full,25.6,13.5
+RED,RED EPIC-W 8K,4K Full,14.95,7.88
+RED,RED EPIC-W 8K,6K Full,22.42,11.82
+RED,RED EPIC-W 8K,8K Full,29.9,15.77
+RED,RED KOMODO 6K,6K Full,27.03,14.26
+RED,RED KOMODO-X 6K,6K Full,27.03,14.26
+RED,RED ONE,4.5K WS,24.19,10.37
+RED,RED ONE,4K HD,22.12,12.44
+RED,RED ONE MX,4.5K WS,24.19,10.37
+RED,RED ONE MX,4K HD,22.12,12.44
+RED,RED ONE MX,5K Full,27.65,14.58
 RED,RED RAVEN,4.5K Full,23.04,11.52
 RED,RED RAVEN,4K Full,20.48,10.8
-RED,RED SCARLET-W 5K,5K Full,25.6,13.5
+RED,RED SCARLET MX,4K HD,22.12,12.44
+RED,RED SCARLET MX,5K Full,27.65,14.58
 RED,RED SCARLET-W 5K,4K Full,20.48,10.8
-RED,RED SCARLET-W 6K,6K Full,30.72,15.8
+RED,RED SCARLET-W 5K,5K Full,25.6,13.5
 RED,RED SCARLET-W 6K,5K Full,25.6,13.5
-RED,RED EPIC-W 5K,5K Full,25.6,13.5
-RED,RED EPIC-W 5K,4K Full,20.48,10.8
-RED,RED EPIC-W 8K,8K Full,29.9,15.77
-RED,RED EPIC-W 8K,6K Full,22.42,11.82
-RED,RED EPIC-W 8K,4K Full,14.95,7.88
-RED,RED WEAPON DRAGON 6K,6K Full,30.72,15.8
-RED,RED WEAPON DRAGON 6K,5K Full,25.6,13.5
+RED,RED SCARLET-W 6K,6K Full,30.72,15.8
+RED,RED V-RAPTOR 8K VV,4K Full,20.48,10.8
+RED,RED V-RAPTOR 8K VV,5K Full,25.6,13.5
+RED,RED V-RAPTOR 8K VV,6K Full,30.72,16.2
+RED,RED V-RAPTOR 8K VV,8K VV Full,40.96,21.6
 RED,RED WEAPON DRAGON 6K,4K Full,20.48,10.8
-RED,RED WEAPON HELIUM 8K,8K Full,29.9,15.77
-RED,RED WEAPON HELIUM 8K,6K Full,22.42,11.82
+RED,RED WEAPON DRAGON 6K,5K Full,25.6,13.5
+RED,RED WEAPON DRAGON 6K,6K Full,30.72,15.8
 RED,RED WEAPON HELIUM 8K,4K Full,14.95,7.88
-RED,RED WEAPON MONSTRO 8K,8K VV Full,40.96,21.6
-RED,RED WEAPON MONSTRO 8K,6K 2.4:1,30.72,12.8
-RED,RED WEAPON MONSTRO 8K,5K Full,25.6,13.5
+RED,RED WEAPON HELIUM 8K,6K Full,22.42,11.82
+RED,RED WEAPON HELIUM 8K,8K Full,29.9,15.77
 RED,RED WEAPON MONSTRO 8K,4K Full,20.48,10.8
+RED,RED WEAPON MONSTRO 8K,5K Full,25.6,13.5
+RED,RED WEAPON MONSTRO 8K,6K 2.4:1,30.72,12.8
+RED,RED WEAPON MONSTRO 8K,8K VV Full,40.96,21.6
 Silicon Imaging,SI-2K / SI-2K Mini,Standard,11.84,6.66
-Sony,VENICE,Full Frame,36.2,24.4
-Sony,VENICE,Super35 4-perf,24.3,18.0
-Sony,VENICE,Super35 3-perf,24.3,12.8
-Sony,F65,Full Aperture,24.7,13.1
-Sony,F55,Full Aperture,24.0,12.7
-Sony,F55,Super35 16:9,23.6,13.3
-Sony,F5,Full Aperture,24.0,12.7
-Sony,F5,Super35 16:9,23.6,13.3
-Sony,F35,Standard,23.6,13.3
-Sony,F3,Standard,23.6,13.3
-Sony,F23,Standard,8.8,4.95
-Sony,HDW-F900R,Standard,8.8,4.95
-Sony,HDC-F950,Standard,8.8,4.95
-Sony,HDC-4800,Standard,8.8,4.95
-Sony,HDC-P1,Standard,6.17,4.63
-Sony,SRW-9000,Standard,8.8,4.95
-Sony,SRW-9000PL,Standard,8.8,4.95
-Sony,PXW-FS7,Standard,23.6,13.3
-Sony,PXW-FS5,Standard,23.5,13.2
-Sony,PXW-Z150,Standard,13.2,8.8
-Sony,NEX-FS700,Standard,24.2,14.8
-Sony,NEX-FS100,Standard,23.6,13.3
-Sony,NEX-VG900,Standard,35.8,23.9
-Sony,NEX-VG30H,Standard,23.5,15.6
-Sony,NEX-VG20,Standard,23.5,15.6
-Sony,PMW-EX1,Standard,8.8,4.95
-Sony,PMW-EX3,Standard,8.8,4.95
-Sony,UMC-S3C,Standard,23.5,15.6
-Sony,FDR-X1000V,Standard,6.17,4.63
-Sony,HDR-AS200V,Standard,6.17,4.63
-Sony,HDR-AS100V,Standard,6.17,4.63
-Sony,HDR-AZ1VR,Standard,5.76,4.29
-Sony,HDR-AS30V,Standard,6.17,4.63
-Sony,HDR-AS20V,Standard,6.17,4.63
+Sony,a6500,Standard,23.5,15.6
 Sony,a7,Standard,35.8,23.9
 Sony,a7 II,Standard,35.8,23.9
 Sony,a7 III,Standard,35.6,23.8
-Sony,a7S,Standard,35.8,23.9
-Sony,a7R II,Standard,35.9,24.0
-Sony,a99,Standard,35.8,23.8
 Sony,a77,Standard,23.5,15.6
-Sony,a6500,Standard,23.5,15.6
+Sony,a7R II,Standard,35.9,24.0
+Sony,a7S,Standard,35.8,23.9
+Sony,a7S III,Standard,35.6,23.8
+Sony,a99,Standard,35.8,23.8
+Sony,BURANO,Full Frame,36.0,24.0
+Sony,BURANO,Super 35,24.1,12.7
+Sony,F23,Standard,8.8,4.95
+Sony,F3,Standard,23.6,13.3
+Sony,F35,Standard,23.6,13.3
+Sony,F5,Full Aperture,24.0,12.7
+Sony,F5,Super35 16:9,23.6,13.3
+Sony,F55,Full Aperture,24.0,12.7
+Sony,F55,Super35 16:9,23.6,13.3
+Sony,F65,Full Aperture,24.7,13.1
+Sony,FDR-X1000V,Standard,6.17,4.63
+Sony,FX3,Standard,35.6,23.8
+Sony,FX30,Standard,23.5,15.6
+Sony,FX6,Standard,36.0,24.0
+Sony,FX9,Full Frame,35.7,18.8
+Sony,HDC-4800,Standard,8.8,4.95
+Sony,HDC-F950,Standard,8.8,4.95
+Sony,HDC-P1,Standard,6.17,4.63
+Sony,HDR-AS100V,Standard,6.17,4.63
+Sony,HDR-AS200V,Standard,6.17,4.63
+Sony,HDR-AS20V,Standard,6.17,4.63
+Sony,HDR-AS30V,Standard,6.17,4.63
+Sony,HDR-AZ1VR,Standard,5.76,4.29
+Sony,HDW-F900R,Standard,8.8,4.95
+Sony,NEX-FS100,Standard,23.6,13.3
+Sony,NEX-FS700,Standard,24.2,14.8
+Sony,NEX-VG20,Standard,23.5,15.6
+Sony,NEX-VG30H,Standard,23.5,15.6
+Sony,NEX-VG900,Standard,35.8,23.9
+Sony,PMW-EX1,Standard,8.8,4.95
+Sony,PMW-EX3,Standard,8.8,4.95
+Sony,PXW-FS5,Standard,23.5,13.2
+Sony,PXW-FS7,Standard,23.6,13.3
+Sony,PXW-Z150,Standard,13.2,8.8
+Sony,SRW-9000,Standard,8.8,4.95
+Sony,SRW-9000PL,Standard,8.8,4.95
+Sony,UMC-S3C,Standard,23.5,15.6
+Sony,VENICE,Full Frame,36.2,24.4
+Sony,VENICE,Super35 3-perf,24.3,12.8
+Sony,VENICE,Super35 4-perf,24.3,18.0
+Sony,VENICE 2,Full Frame,36.0,24.0
+Sony,VENICE 2,Super 35,24.1,12.7
+Sony,VENICE 2,Super 35 Anamorphic 6:5,24.1,20.1
 Still,APS-C,Standard,23.6,15.7
 Still,Full Frame 35mm Stills,Standard,36.0,24.0
 Vision Research,Phantom 65,Standard,52.1,30.5
@@ -329,8 +394,8 @@ Vision Research,Phantom Flex4K,Standard,27.7,15.5
 Vision Research,Phantom Flex4K GS,Standard,27.7,15.5
 Vision Research,Phantom HD GOLD,Standard,17.8,11.9
 Vision Research,Phantom Miro 321S,Standard,16.1,11.9
+Vision Research,Phantom v2640 ONYX,Standard,27.7,15.5
 Vision Research,Phantom VEO,Standard,22.0,14.8
 Vision Research,Phantom VEO4K-PL,Standard,22.0,14.8
-Vision Research,Phantom v2640 ONYX,Standard,27.7,15.5
 Weisscam,HS-1,Standard,15.0,12.0
 Weisscam,HS-2,Standard,24.89,14.0

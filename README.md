@@ -8,7 +8,11 @@ This is provided under an MIT license. If there is any important camera or manuf
 
 ## Running The Job
 
-Point Claude Cowork to the repository directory, and ask it to `Execute the job in JOB.md`. The job shouldn't require any file access permissions beyond the directory, and should not need to execute any scripts at all.
+Point Claude Cowork to the repository directory, and ask it to ```Execute the job in JOB.md```
+
+The job shouldn't require any file access permissions beyond the directory, and should not need to execute any scripts at all. We've been running the job using the Sonnet model, since this isn't a difficult task.
+
+The output is `camerasensors.csv`.
 
 ## Explanation
 
