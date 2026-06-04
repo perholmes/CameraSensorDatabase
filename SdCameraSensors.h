@@ -1,6 +1,6 @@
 // Copyright Hollywood Camera Work
 
-// For Shot Designer, drop all three cpp/h files into ShotDesigner/UI/Cameras
+// For Shot Designer, drop all three cpp/h files into Source/ShotDesigner/DataModel/CameraSensors
 
 #pragma once
 
