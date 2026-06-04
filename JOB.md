@@ -1,6 +1,6 @@
 # Camera Sensors
 
-The job is to download spec sheets for cinema and DSLR cameras, and produce a database of camera sensor widths and heights for each camera in each format it's able to shoot. We're interested in all sensors that can be used to for shooting a movie, a TV show, or a YouTube show, so we're not specifically limited to cinema cameras.
+The job is to download spec sheets for cinema and DSLR cameras, and produce a database of camera sensor widths and heights for each camera in each format it's able to shoot. We're interested in all sensors that can be used for shooting a movie, a TV show, or a YouTube show, so we're not specifically limited to cinema cameras.
 
 The output should be a CSV file with the following columns:
 * Manufacturer
@@ -9,7 +9,7 @@ The output should be a CSV file with the following columns:
 * Width
 * Height
 
-The purpose of the format field is that different formats might crop the sensor differently, resulting in different effective sensor size and thus focal length in calculations. For example, a sensor might be 6000 pixels across, but in a certain format, it only uses 5140 of the pixels, in order to avoid having to scale image data in-camera. If the sensor had a width of 30 mm before, its effective width is now 5140 / 6000 = 25.8 mm.
+The purpose of the format field is that different formats might crop the sensor differently, resulting in different effective sensor sizes and thus focal length in calculations. For example, a sensor might be 6000 pixels across, but in a certain format, it only uses 5140 of the pixels, in order to avoid having to scale image data in-camera. If the sensor had a width of 30 mm before, its effective width is now 5140 / 6000 = 25.8 mm.
 
 You must stay alert to whether a certain format crops the sensor to achieve the format, or if it scales the full sensor down to achieve the format. When the full sensor is being utilized and just scaled down, we need to show the full sensor size, even if the capture format is much smaller.
 
