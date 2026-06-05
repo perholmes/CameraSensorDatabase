@@ -8,8 +8,7 @@
 TArray<FString> FCameraSensors::GetManufacturers()
 {
     TArray<FString> Result;
-    for (const FCameraSensor& Sensor : All())
-    {
+    for (const FCameraSensor& Sensor : All()) {
         Result.AddUnique(Sensor.Manufacturer);
     }
     return Result;
@@ -18,10 +17,8 @@ TArray<FString> FCameraSensors::GetManufacturers()
 TArray<FString> FCameraSensors::GetCameras(const FString& Manufacturer)
 {
     TArray<FString> Result;
-    for (const FCameraSensor& Sensor : All())
-    {
-        if (Sensor.Manufacturer == Manufacturer)
-        {
+    for (const FCameraSensor& Sensor : All()) {
+        if (Sensor.Manufacturer == Manufacturer) {
             Result.AddUnique(Sensor.Camera);
         }
     }
@@ -31,10 +28,8 @@ TArray<FString> FCameraSensors::GetCameras(const FString& Manufacturer)
 TArray<FString> FCameraSensors::GetFormats(const FString& Manufacturer, const FString& Camera)
 {
     TArray<FString> Result;
-    for (const FCameraSensor& Sensor : All())
-    {
-        if (Sensor.Manufacturer == Manufacturer && Sensor.Camera == Camera)
-        {
+    for (const FCameraSensor& Sensor : All()) {
+        if (Sensor.Manufacturer == Manufacturer && Sensor.Camera == Camera) {
             Result.Add(Sensor.Format);
         }
     }
@@ -43,10 +38,8 @@ TArray<FString> FCameraSensors::GetFormats(const FString& Manufacturer, const FS
 
 TOptional<FVector2D> FCameraSensors::GetSensorSize(const FString& Manufacturer, const FString& Camera, const FString& Format)
 {
-    for (const FCameraSensor& Sensor : All())
-    {
-        if (Sensor.Manufacturer == Manufacturer && Sensor.Camera == Camera && Sensor.Format == Format)
-        {
+    for (const FCameraSensor& Sensor : All()) {
+        if (Sensor.Manufacturer == Manufacturer && Sensor.Camera == Camera && Sensor.Format == Format) {
             return Sensor.SensorSize;
         }
     }
@@ -58,17 +51,12 @@ FString FCameraSensors::ConcatenateSensorDescription(const FString& Manufacturer
     return Manufacturer + TEXT(" ") + Camera + TEXT(" ") + Format;
 }
 
-bool FCameraSensors::ParseSensorDescription(const FString& Description, FString& OutManufacturer, FString& OutCamera, FString& OutFormat)
+TOptional<FSensorDescriptionResult> FCameraSensors::ParseSensorDescription(const FString& Description)
 {
-    for (const FCameraSensor& Sensor : All())
-    {
-        if (ConcatenateSensorDescription(Sensor.Manufacturer, Sensor.Camera, Sensor.Format) == Description)
-        {
-            OutManufacturer = Sensor.Manufacturer;
-            OutCamera = Sensor.Camera;
-            OutFormat = Sensor.Format;
-            return true;
+    for (const FCameraSensor& Sensor : All()) {
+        if (ConcatenateSensorDescription(Sensor.Manufacturer, Sensor.Camera, Sensor.Format) == Description) {
+            return FSensorDescriptionResult{ Sensor.Manufacturer, Sensor.Camera, Sensor.Format };
         }
     }
-    return false;
+    return {};
 }
